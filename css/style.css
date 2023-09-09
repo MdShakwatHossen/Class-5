@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(203, 234, 245);
+  font-family: "Poppins", sans-serif;
+  background-image: url(../img/nature.webp) ;
+  background-size: cover ;
+  background-repeat: no-repeat ;
+  background-attachment: fixed;
+  
+}
+.main-part {
+  border-radius: 20px 20px 0px 0px;
+  width: 600px;
+  border: 5px double green;
+  text-align: center;
+  line-height: 1.5;
+  align-self: center;
+}
+#heading {
+  font-size: 50px;
+  color: rgb(0, 255, 136);
+  text-align: center;
+}
+.paragraph {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  text-align: justify ;
+}
